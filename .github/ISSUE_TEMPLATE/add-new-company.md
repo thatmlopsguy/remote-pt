@@ -9,6 +9,7 @@ labels: ['add company']
 I want to add <COMPANY_NAME> to the listing with the following URL <JOBS_URL>.
 
 I know about these job offerings because (choose one):
+
 - [ ] I work there.
 - [ ] I applied there, and they allowed me to share this.
 - [ ] A friend works there and says this is correct.
@@ -16,8 +17,8 @@ I know about these job offerings because (choose one):
 
 I validate the following:
 
-- [ ] The company listed hires in Spain, without requiring employees to become freelancers/self-employed/autónomos. The company hires with a legal entity in Spain, uses an employer of record, or other means.
-- [ ] The company offers fully remote positions, where the employee must not visit an office regularly and can work from anywhere in Spain. Some occasional travel is OK.
+- [ ] The company listed hires in Portugal, without requiring employees to become freelancers/self-employed. The company hires with a legal entity in Portugal, uses an employer of record, or other means.
+- [ ] The company offers fully remote positions, where the employee must not visit an office regularly and can work from anywhere in Portugal. Some occasional travel is OK.
 - [ ] The URL provided shows a list of positions **at any time**.
 - [ ] I tag the offer adequately by choosing one of the following tags:
   - [ ] All offers are remote  
