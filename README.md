@@ -1,7 +1,7 @@
 # Introduction
 
 This is a repository listing companies which offer full-time remote jobs with
-Portuese contracts
+Portuguese contracts.
 
 # Why
 
@@ -9,23 +9,19 @@ When considering a remote job, it's natural to think that you can work for any
 company in the world. However, if you live in Portugal, working for companies
 abroad means becoming self-employed, which has several drawbacks:
 
-* Your employer can end your contract at any time
-* You need to do extra paperwork compared to a regular full-time job
-* There is no clear legal framework. Apparently it is not OK to be self-employed
-  and work for a single Portuguese company. There seems to be no clear messaging
-  from the government that doing the same for a foreign company is OK
+* Your employer can end your contract at any time;
+* You need to do extra paperwork compared to a regular full-time job;
 
-There is a significant amount of resources to find a remote job, but we have
-found none targeting people living in Portugal. As we believe that the number of
-companies allowing remote work in Portugal are limited, a list seems a good
-approach for those seeking a remote work; they can simply go through the list
-and look for open positions.
+There is a significant amount of resources to find a remote job, but none 
+targeting people living in Portugal. The number of companies allowing remote
+work in Portugal are limited, a list seems a good approach for those seeking
+a remote work; they can simply go through the list and look for open positions.
 
 # Conditions
 
 ## Remote
 
-We will only list companies which allow working fully remotely (e.g. you can
+Only list companies which allow working fully remotely (e.g. you can
 work from anywhere in Portugal and you do not have to set foot in an office if you
 don't want to). Some occasional travelling for onboarding, team building or
 similar purposes is fine. Also the companies must also hire people using
@@ -44,7 +40,7 @@ following scenarios are OK:
 Please provide a stable URL which lists all offers that meet the conditions
 for being listed in this page (or a simple way to filter/locate them).
 
-We recommend:
+Recommendations:
 
 * Not using an URL or page that seems to be for a specific offer (e.g.
   `/blog/backend_python_dev`). People browsing the list might not feel
