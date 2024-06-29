@@ -107,6 +107,7 @@ in Portugal. However, offers that do not show a location, or that list many coun
 
 * Jobgether [Open positions](https://jobgether.com/search-offers?locations=622a65b2671f2c8b98fac7ae)
 * levels.fyi [Open positions](https://www.levels.fyi/jobs/location/portugal?locationSlug=portugal)
+* Remote.com [Open positions](https://remote.com/jobs/all?workplaceLocation=remote&country=PRT)
 
 # Related projects
 
