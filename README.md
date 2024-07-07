@@ -99,6 +99,7 @@ The following companies offer remote jobs and hire in Portugal:
 
 * Anchorage Digital [Open positions](https://jobs.lever.co/anchorage?location=Portugal)
 * Datadog [Open positions](https://careers.datadoghq.com/)
+* Languagewire [Open positions](https://apply.workable.com/languagewire/)
 * Remote [Open positions](https://boards.greenhouse.io/remotecom)
 * RevenueCat [Open positions](https://www.revenuecat.com/careers/)
 * Stratio [Open positions](https://careers.stratioautomotive.com/#jobs)
