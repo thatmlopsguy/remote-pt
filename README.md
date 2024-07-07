@@ -1,9 +1,11 @@
-# Introduction
+# Remote tech jobs in Portugal 🇵🇹
+
+## Introduction
 
 This is a repository listing companies which offer full-time remote jobs with
 Portuguese contracts.
 
-# Why
+## Why
 
 When considering a remote job, it's natural to think that you can work for any
 company in the world. However, if you live in Portugal, working for companies
@@ -17,9 +19,9 @@ targeting people living in Portugal. The number of companies allowing remote
 work in Portugal are limited, a list seems a good approach for those seeking
 a remote work; they can simply go through the list and look for open positions.
 
-# Conditions
+## Conditions
 
-## Remote
+### Remote
 
 Only list companies which allow working fully remotely (e.g. you can
 work from anywhere in Portugal and you do not have to set foot in an office if you
@@ -35,7 +37,7 @@ following scenarios are OK:
 * A foreign company, using an intermediary to hire people living in Portugal, but
   the contract must also be Portuguese, not requiring self-employment.
 
-## Offers
+### Offers
 
 Please provide a stable URL which lists all offers that meet the conditions
 for being listed in this page (or a simple way to filter/locate them).
@@ -50,7 +52,7 @@ Recommendations:
   or that all offers do. For instance, indicate clearly which offers
   are remote, etc.
 
-# Adding a company
+## Adding a company
 
 If you are a company or an individual, send a PR which adds the company to the
 list (in alphabetical order). Try to be brief to keep the list manageable.
@@ -85,7 +87,7 @@ Tag your offer with:
   hours), (Night shift every 4 weeks), (4 day week), or (Requires
   availability 8-9 Europe/Lisbon).
 
-# Support
+## Support
 
 It is our objective for this list to remain useful and effective for job
 searchers. If you use this list and notice that a company listed below is no
@@ -93,7 +95,7 @@ longer useful (broken URL, not clearly listing remote offers which fulfill
 the criteria for the listing, etc.), please send a PR removing it (along
 with a justification) or open an issue.
 
-# Companies
+## Companies
 
 The following companies offer remote jobs and hire in Portugal:
 
@@ -105,7 +107,7 @@ The following companies offer remote jobs and hire in Portugal:
 * Stratio [Open positions](https://careers.stratioautomotive.com/#jobs)
 * Wellhub [Open positions](https://wellhub.com/careers)
 
-# Others
+## Others
 
 The following sites list remote jobs. Some offers list explicitly Portugal, which likely mean hiring with permanent contracts
 in Portugal. However, offers that do not show a location, or that list many countries, are likely freelancing roles.
@@ -117,7 +119,6 @@ in Portugal. However, offers that do not show a location, or that list many coun
 * ["Who's hiring?" monthly thread on Hacker News](https://www.hacker-jobs.com/)
 * Landing.Jobs
 
-
-# Related projects
+## Related projects
 
 * Italy [Awesome Italia Remote](https://github.com/italiaremote/awesome-italia-remote)
