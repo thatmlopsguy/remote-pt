@@ -124,4 +124,6 @@ in Portugal. However, offers that do not show a location, or that list many coun
 
 ## Related projects
 
+* [Tech Companies in Portugal](https://github.com/marmelo/tech-companies-in-portugal)
+* [remote-es/remotes](https://github.com/remote-es/remotes)
 * Italy [Awesome Italia Remote](https://github.com/italiaremote/awesome-italia-remote)
