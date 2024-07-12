@@ -109,6 +109,7 @@ The following companies offer remote jobs and hire in Portugal:
 * RevenueCat [Open positions](https://www.revenuecat.com/careers/)
 * Stratio [Open positions](https://careers.stratioautomotive.com/#jobs)
 * Wellhub [Open positions](https://wellhub.com/careers)
+* YLD [Open positions](https://www.yld.io/join-us)
 
 ## Others
 
