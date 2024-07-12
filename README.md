@@ -105,6 +105,8 @@ The following companies offer remote jobs and hire in Portugal:
 * Diagrid [Open positions](https://www.diagrid.io/careers/)
 * Languagewire [Open positions](https://apply.workable.com/languagewire/)
 * PagerDuty [Open positions](https://careers.pagerduty.com/jobs/search?page=1&remote=true&country_codes%5B%5D=PT&query=)
+* Pagos [Open positions](https://pagos.ai/careers)
+* Parity [Open positions](https://www.parity.io/careers)
 * Remote [Open positions](https://boards.greenhouse.io/remotecom)
 * RevenueCat [Open positions](https://www.revenuecat.com/careers/)
 * Stratio [Open positions](https://careers.stratioautomotive.com/#jobs)

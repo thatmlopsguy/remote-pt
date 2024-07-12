@@ -29,4 +29,4 @@ I validate the following:
      **if the job listing does not offer any indication that all offers are remote, nor marks clearly remote offers**, so you need to check individual offers to see if the position is remote.
 
 > [!NOTE]
-> By submitting this issue, I understand that requests will only be considered if all checkboxes are marked, placeholders are replaced, and requirements are fulfilled. The last decision always goes on code owners. 
+> By submitting this issue, I understand that requests will only be considered if all checkboxes are marked, placeholders are replaced, and requirements are fulfilled. The last decision always goes on code owners.

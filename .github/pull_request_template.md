@@ -33,4 +33,4 @@ Please explain the reason for the removal, preferably with some ways for us to v
 Please explain.
 
 > [!NOTE]
-> By submitting this Pull Request, I understand that it will only be considered (therefore merged) if all checkboxes are marked, placeholders are replaced, and requirements are fulfilled. The last decision always goes on code owners. 
+> By submitting this Pull Request, I understand that it will only be considered (therefore merged) if all checkboxes are marked, placeholders are replaced, and requirements are fulfilled. The last decision always goes on code owners.
