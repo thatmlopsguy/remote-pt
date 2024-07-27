@@ -101,12 +101,18 @@ The following companies offer remote jobs and hire in Portugal:
 
 * Anchorage Digital [Open positions](https://jobs.lever.co/anchorage?location=Portugal)
 * c/side [Open positions](https://jobs.ashbyhq.com/c-side)
+* Coalition [Open positions](https://careers.coalitioninc.com/jobs/)
 * Datadog [Open positions](https://careers.datadoghq.com/)
+* Diagrid [Open positions](https://www.diagrid.io/careers/)
 * Languagewire [Open positions](https://apply.workable.com/languagewire/)
+* PagerDuty [Open positions](https://careers.pagerduty.com/jobs/search?page=1&remote=true&country_codes%5B%5D=PT&query=)
+* Pagos [Open positions](https://pagos.ai/careers)
+* Parity [Open positions](https://www.parity.io/careers)
 * Remote [Open positions](https://boards.greenhouse.io/remotecom)
 * RevenueCat [Open positions](https://www.revenuecat.com/careers/)
 * Stratio [Open positions](https://careers.stratioautomotive.com/#jobs)
 * Wellhub [Open positions](https://wellhub.com/careers)
+* YLD [Open positions](https://www.yld.io/join-us)
 
 ## Others
 
@@ -122,4 +128,6 @@ in Portugal. However, offers that do not show a location, or that list many coun
 
 ## Related projects
 
+* [Tech Companies in Portugal](https://github.com/marmelo/tech-companies-in-portugal)
+* [remote-es/remotes](https://github.com/remote-es/remotes)
 * Italy [Awesome Italia Remote](https://github.com/italiaremote/awesome-italia-remote)
