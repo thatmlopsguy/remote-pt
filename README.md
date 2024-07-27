@@ -100,6 +100,7 @@ with a justification) or open an issue.
 The following companies offer remote jobs and hire in Portugal:
 
 * Anchorage Digital [Open positions](https://jobs.lever.co/anchorage?location=Portugal)
+* c/side [Open positions](https://jobs.ashbyhq.com/c-side)
 * Datadog [Open positions](https://careers.datadoghq.com/)
 * Languagewire [Open positions](https://apply.workable.com/languagewire/)
 * Remote [Open positions](https://boards.greenhouse.io/remotecom)
