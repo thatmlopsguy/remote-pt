@@ -122,6 +122,7 @@ in Portugal. However, offers that do not show a location, or that list many coun
 * Jobgether [Open positions](https://jobgether.com/search-offers?locations=622a65b2671f2c8b98fac7ae)
 * levels.fyi [Open positions](https://www.levels.fyi/jobs/location/portugal?locationSlug=portugal)
 * Remote.com [Open positions](https://remote.com/jobs/all?workplaceLocation=remote&country=PRT)
+* Wellfound (formerly AngelList Talent) [Open positions](https://wellfound.com/location/portugal)
 * Himalayas [Open positions](https://himalayas.app/jobs/countries/portugal)
 * ["Who's hiring?" monthly thread on Hacker News](https://www.hacker-jobs.com/)
 * Landing.Jobs
