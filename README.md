@@ -2,98 +2,74 @@
 
 ## Introduction
 
-This is a repository listing companies which offer full-time remote jobs with
-Portuguese contracts.
+This is a repository listing companies which **offer full-time remote jobs with Portuguese contracts**.
 
 ## Why
 
-When considering a remote job, it's natural to think that you can work for any
-company in the world. However, if you live in Portugal, working for companies
-abroad means becoming self-employed, which has several drawbacks:
+When considering a remote job, it's natural to think that you can work for any company in the world.
+However, if you live in Portugal, working for companies abroad means becoming self-employed, which has several drawbacks:
 
 * Your employer can end your contract at any time;
 * You need to do extra paperwork compared to a regular full-time job;
 
-There is a significant amount of resources to find a remote job, but none 
-targeting people living in Portugal. The number of companies allowing remote
-work in Portugal are limited, a list seems a good approach for those seeking
-a remote work; they can simply go through the list and look for open positions.
+There is a significant amount of resources to find a remote job, but none targeting people living in Portugal.
+The number of companies allowing remote work in Portugal are limited, a list seems a good approach for those seeking a
+remote work; they can simply go through the list and look for open positions.
 
 ## Conditions
 
 ### Remote
 
-Only list companies which allow working fully remotely (e.g. you can
-work from anywhere in Portugal and you do not have to set foot in an office if you
-don't want to). Some occasional travelling for onboarding, team building or
-similar purposes is fine. Also the companies must also hire people using
-Portuese full-time contracts (i.e. not self-employment). For example, the
-following scenarios are OK:
+**Only list companies which allow working fully remotely** (e.g. you can work from anywhere in Portugal and you do not
+have to set foot in an office if you don't want to). Some occasional traveling for onboarding, team building or similar
+purposes is fine. Also the companies must also hire people using Portuguese full-time contracts (i.e. not self-employment).
+For example, the following scenarios are OK:
 
-* A completely Portuguese company that hires in Portugal with regular, non
-  self-employed contracts people living in Portugal
-* A foreign company, with a Portuguese legal entity to be able to hire people
-  living in Portugal, using regular, non self-employed contracts
-* A foreign company, using an intermediary to hire people living in Portugal, but
-  the contract must also be Portuguese, not requiring self-employment.
+* A completely Portuguese company that hires in Portugal with regular, non self-employed contracts people living in Portugal
+* A foreign company, with a Portuguese legal entity to be able to hire people living in Portugal, using regular, non 
+  self-employed contracts
+* A foreign company, using an intermediary to hire people living in Portugal, but the contract must also be Portuguese,
+  not requiring self-employment.
 
 ### Offers
 
-Please provide a stable URL which lists all offers that meet the conditions
-for being listed in this page (or a simple way to filter/locate them).
+Please provide a stable URL which lists all offers that meet the conditions for being listed in this page (or a simple 
+way to filter/locate them). Recommendations:
 
-Recommendations:
-
-* Not using an URL or page that seems to be for a specific offer (e.g.
-  `/blog/backend_python_dev`). People browsing the list might not feel
-  confident that the offer is still available and up to date
+* Not using an URL or page that seems to be for a specific offer (e.g. `/blog/backend_python_dev`). People browsing the
+  list might not feel confident that the offer is still available and up to date
 * Showing clearly when offers were posted
-* Highlight clearly which offers fulfill the criteria for this listing
-  or that all offers do. For instance, indicate clearly which offers
-  are remote, etc.
+* Highlight clearly which offers fulfill the criteria for this listing or that all offers do. For instance, indicate
+  clearly which offers are remote, etc.
 
 ## Adding a company
 
-If you are a company or an individual, send a PR which adds the company to the
-list (in alphabetical order). Try to be brief to keep the list manageable.
+If you are a company or an individual, send a PR which adds the company to the list (in alphabetical order). Try to be
+brief to keep the list manageable. Please make a note in the offer if:
 
-The GitHub "edit file" button automates the process of forking and submitting a PR.
-
-Please make a note in the offer if:
-
-* You have specific travel requirements (monthly onsites, etc.) which happen
-  more than 3 times a year
+* You have specific travel requirements (monthly onsites, etc.) which happen more than 3 times a year
 * You require language knowledge other than Portuguese and/or medium English
 
-or anything you feel might be important to users of the list, especially if
-this is not clearly stated in the offers in your listings.
+or anything you feel might be important to users of the list, especially if this is not clearly stated in the offers in
+your listings. Tag your offer with:
 
-Tag your offer with:
-
-* (All offers are remote) if the job listing does not offer any indication
-  that all offers are remote, nor marks clearly remote offers, but all jobs
-  are remote.
-* (All technical offers are remote) if the job listing does not offer any
-  indication that all offers are remote, nor marks clearly remote offers,
-  but all technical offers are remote.
-* (View individual job offers to check for remote) if the job listing does
-  not offer any indication that all offers are remote, nor marks clearly
-  remote offers, so you need to check individual offers to see if the
-  position is remote.
-* (Async friendly)/(Async first) if you do not have specific availability
-  requirements. This is especially interesting for workers who might be
-  interested in working on a different schedule or timezone. You can also
-  add details like (Preferred overlap of 3 hours with US Eastern office
-  hours), (Night shift every 4 weeks), (4 day week), or (Requires
+* (All offers are remote) if the job listing does not offer any indication that all offers are remote, nor marks clearly
+  remote offers, but all jobs are remote.
+* (All technical offers are remote) if the job listing does not offer any indication that all offers are remote, nor marks
+  clearly remote offers, but all technical offers are remote.
+* (View individual job offers to check for remote) if the job listing does not offer any indication that all offers are
+  remote, nor marks clearly remote offers, so you need to check individual offers to see if the position is remote.
+* (Async friendly)/(Async first) if you do not have specific availability requirements. This is especially interesting
+  for workers who might be interested in working on a different schedule or timezone. You can also add details like 
+  (Preferred overlap of 3 hours with US Eastern office hours), (Night shift every 4 weeks), (4 day week), or (Requires
   availability 8-9 Europe/Lisbon).
 
 ## Support
 
-It is our objective for this list to remain useful and effective for job
-searchers. If you use this list and notice that a company listed below is no
-longer useful (broken URL, not clearly listing remote offers which fulfill
-the criteria for the listing, etc.), please send a PR removing it (along
-with a justification) or open an issue.
+It is our objective for this list to remain useful and effective for job searchers. 
+If you use this list and notice that a company listed below is no longer useful (broken URL, not clearly listing remote
+offers which fulfill the criteria for the listing, etc.), please send a PR removing it (along with a justification) or 
+open an issue.
 
 ## Companies
 
@@ -105,6 +81,7 @@ The following companies offer remote jobs and hire in Portugal:
 * Datadog [Open positions](https://careers.datadoghq.com/)
 * Diagrid [Open positions](https://www.diagrid.io/careers/)
 * Languagewire [Open positions](https://apply.workable.com/languagewire/)
+* Intermedia [Open positions](https://intermeinc.hrmdirect.com/employment/job-openings.php?search=true)
 * PagerDuty [Open positions](https://careers.pagerduty.com/jobs/search?page=1&remote=true&country_codes%5B%5D=PT&query=)
 * Pagos [Open positions](https://pagos.ai/careers)
 * Parity [Open positions](https://www.parity.io/careers)
@@ -113,6 +90,7 @@ The following companies offer remote jobs and hire in Portugal:
 * Stratio [Open positions](https://careers.stratioautomotive.com/#jobs)
 * Wellhub [Open positions](https://wellhub.com/careers)
 * YLD [Open positions](https://www.yld.io/join-us)
+* ZigZag Global [Open positions](https://apply.workable.com/zigzag-global/)
 
 ## Others
 
@@ -122,7 +100,7 @@ in Portugal. However, offers that do not show a location, or that list many coun
 * Jobgether [Open positions](https://jobgether.com/search-offers?locations=622a65b2671f2c8b98fac7ae)
 * levels.fyi [Open positions](https://www.levels.fyi/jobs/location/portugal?locationSlug=portugal)
 * Remote.com [Open positions](https://remote.com/jobs/all?workplaceLocation=remote&country=PRT)
-* Himalayas [Open positions](https://himalayas.app/jobs/countries/portugal)
+* Himalayas [Open positions](https://himalayas.app/jobs/countries/portugal?sort=recent)
 * ["Who's hiring?" monthly thread on Hacker News](https://www.hacker-jobs.com/)
 * Landing.Jobs
 
