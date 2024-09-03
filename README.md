@@ -95,6 +95,7 @@ The following companies offer remote jobs and hire in Portugal:
 * RevenueCat [Open positions](https://www.revenuecat.com/careers/)
 * Syrup [Open positions](https://www.syrup.tech/careers#open-positions)
 * Stratio [Open positions](https://careers.stratioautomotive.com/#jobs)
+* Trimble [Open positions](https://trimblecareers.trimble.com/careers?location=Portugal)
 * Wellhub [Open positions](https://wellhub.com/careers)
 * YLD [Open positions](https://www.yld.io/join-us)
 * ZigZag Global [Open positions](https://apply.workable.com/zigzag-global/)
