@@ -85,6 +85,7 @@ The following companies offer remote jobs and hire in Portugal:
 * GitLab [Open positions](https://job-boards.greenhouse.io/gitlab/)
 * Intermedia [Open positions](https://intermeinc.hrmdirect.com/employment/job-openings.php?search=true)
 * Languagewire [Open positions](https://apply.workable.com/languagewire/)
+* Leadzai [Open positions](https://www.leadzai.com/about-us#open-roles)
 * Namecheap [Open positions](https://www.namecheap.com/careers/)
 * Orcid [Open positions](https://info.orcid.org/work-with-us/)
 * PagerDuty [Open positions](https://careers.pagerduty.com/jobs/search?page=1&remote=true&country_codes%5B%5D=PT&query=)
