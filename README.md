@@ -81,6 +81,7 @@ The following companies offer remote jobs and hire in Portugal:
 * Datadog [Open positions](https://careers.datadoghq.com/)
 * Diagrid [Open positions](https://www.diagrid.io/careers/)
 * Languagewire [Open positions](https://apply.workable.com/languagewire/)
+* Lumenalta [Open positions](https://lumenalta.com/remote-jobs#open-positions)
 * Intermedia [Open positions](https://intermeinc.hrmdirect.com/employment/job-openings.php?search=true)
 * PagerDuty [Open positions](https://careers.pagerduty.com/jobs/search?page=1&remote=true&country_codes%5B%5D=PT&query=)
 * Pagos [Open positions](https://pagos.ai/careers)
