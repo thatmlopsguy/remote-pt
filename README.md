@@ -76,13 +76,21 @@ open an issue.
 The following companies offer remote jobs and hire in Portugal:
 
 * Anchorage Digital [Open positions](https://jobs.lever.co/anchorage?location=Portugal)
+* Automattic [Open positions](https://automattic.com/work-with-us/)
 * c/side [Open positions](https://jobs.ashbyhq.com/c-side)
 * Coalition [Open positions](https://careers.coalitioninc.com/jobs/)
+* Crossover [Open positions](https://www.crossover.com/jobs)
 * Datadog [Open positions](https://careers.datadoghq.com/)
 * Diagrid [Open positions](https://www.diagrid.io/careers/)
 * Languagewire [Open positions](https://apply.workable.com/languagewire/)
 * Lumenalta [Open positions](https://lumenalta.com/remote-jobs#open-positions)
+* ELSA [Open positions](https://elsaspeak.com/en/career/)
+* GitLab [Open positions](https://job-boards.greenhouse.io/gitlab/)
 * Intermedia [Open positions](https://intermeinc.hrmdirect.com/employment/job-openings.php?search=true)
+* Languagewire [Open positions](https://apply.workable.com/languagewire/)
+* Leadzai [Open positions](https://www.leadzai.com/about-us#open-roles)
+* Namecheap [Open positions](https://www.namecheap.com/careers/)
+* Orcid [Open positions](https://info.orcid.org/work-with-us/)
 * PagerDuty [Open positions](https://careers.pagerduty.com/jobs/search?page=1&remote=true&country_codes%5B%5D=PT&query=)
 * Pagos [Open positions](https://pagos.ai/careers)
 * Parity [Open positions](https://www.parity.io/careers)
@@ -94,6 +102,7 @@ The following companies offer remote jobs and hire in Portugal:
 * Trimble [Open positions](https://trimblecareers.trimble.com/careers?location=Portugal)
 * Wellhub [Open positions](https://wellhub.com/careers)
 * YLD [Open positions](https://www.yld.io/join-us)
+* Zartis [Open positions](https://www.zartis.com/careers/)
 * ZigZag Global [Open positions](https://apply.workable.com/zigzag-global/)
 
 ## Others
@@ -101,13 +110,14 @@ The following companies offer remote jobs and hire in Portugal:
 The following sites list remote jobs. Some offers list explicitly Portugal, which likely mean hiring with permanent contracts
 in Portugal. However, offers that do not show a location, or that list many countries, are likely freelancing roles.
 
-* Jobgether [Open positions](https://jobgether.com/search-offers?locations=622a65b2671f2c8b98fac7ae)
+* Jobgether.com [Open positions](https://jobgether.com/search-offers?locations=622a65b2671f2c8b98fac7ae)
 * levels.fyi [Open positions](https://www.levels.fyi/jobs/location/portugal?locationSlug=portugal)
 * Remote.com [Open positions](https://remote.com/jobs/all?workplaceLocation=remote&country=PRT)
 * Wellfound (formerly AngelList Talent) [Open positions](https://wellfound.com/location/portugal)
 * Himalayas [Open positions](https://himalayas.app/jobs/countries/portugal)
 * ["Who's hiring?" monthly thread on Hacker News](https://www.hacker-jobs.com/)
-* Landing.Jobs
+* Landing.jobs [Open positions](https://landing.jobs/jobs)
+* EuRemoteJobs.com (Portugal) [Open positions](https://euremotejobs.com/job-region/remote-jobs-portugal/)
 
 ## Related projects
 
