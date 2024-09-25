@@ -118,6 +118,7 @@ in Portugal. However, offers that do not show a location, or that list many coun
 * ["Who's hiring?" monthly thread on Hacker News](https://www.hacker-jobs.com/)
 * Landing.jobs [Open positions](https://landing.jobs/jobs)
 * EuRemoteJobs.com (Portugal) [Open positions](https://euremotejobs.com/job-region/remote-jobs-portugal/)
+* [European Remote (Portugal)](https://europeanremote.com/hiring-locations/portugal)
 
 ## Related projects
 
