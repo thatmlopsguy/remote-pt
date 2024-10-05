@@ -100,6 +100,7 @@ The following companies offer remote jobs and hire in Portugal:
 * Syrup [Open positions](https://www.syrup.tech/careers#open-positions)
 * Stratio [Open positions](https://careers.stratioautomotive.com/#jobs)
 * Trimble [Open positions](https://trimblecareers.trimble.com/careers?location=Portugal)
+* Unleash [Open positions](https://www.getunleash.io/careers)
 * Wellhub [Open positions](https://wellhub.com/careers)
 * YLD [Open positions](https://www.yld.io/join-us)
 * Zartis [Open positions](https://www.zartis.com/careers/)
