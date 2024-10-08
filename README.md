@@ -95,6 +95,7 @@ The following companies offer remote jobs and hire in Portugal:
 * Pagos [Open positions](https://pagos.ai/careers)
 * Parity [Open positions](https://www.parity.io/careers)
 * Phaidra [Open positions](https://www.phaidra.ai/careers)
+* Poolside [Open positions](https://poolside.ai/careers)
 * Remote [Open positions](https://boards.greenhouse.io/remotecom)
 * RevenueCat [Open positions](https://www.revenuecat.com/careers/)
 * Syrup [Open positions](https://www.syrup.tech/careers#open-positions)
