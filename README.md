@@ -122,6 +122,7 @@ in Portugal. However, offers that do not show a location, or that list many coun
 * Landing.jobs [Open positions](https://landing.jobs/jobs)
 * EuRemoteJobs.com (Portugal) [Open positions](https://euremotejobs.com/job-region/remote-jobs-portugal/)
 * [European Remote (Portugal)](https://europeanremote.com/hiring-locations/portugal)
+* [r/devpt Quem Está a Contratar?](https://www.reddit.com/r/devpt/search/?q=%22Quem+Est%C3%A1+a+Contratar%3F%22&restrict_sr=1&sort=new)
 
 ## Related projects
 
