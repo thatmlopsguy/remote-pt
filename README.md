@@ -99,6 +99,7 @@ The following companies offer remote jobs and hire in Portugal:
 * Poolside [Open positions](https://poolside.ai/careers)
 * Remote [Open positions](https://boards.greenhouse.io/remotecom)
 * RevenueCat [Open positions](https://www.revenuecat.com/careers/)
+* Sherpany [Open positions](https://www.sherpany.com/en/careers/open-positions/)
 * Syrup [Open positions](https://www.syrup.tech/careers#open-positions)
 * Stratio [Open positions](https://careers.stratioautomotive.com/#jobs)
 * Trimble [Open positions](https://trimblecareers.trimble.com/careers?location=Portugal)
