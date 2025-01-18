@@ -104,6 +104,7 @@ The following companies offer remote jobs and hire in Portugal:
 * RevenueCat [Open positions](https://www.revenuecat.com/careers/)
 * Salsify [Open positions](https://www.salsify.com/careers/current-listings)
 * Sherpany [Open positions](https://www.sherpany.com/en/careers/open-positions/)
+* SkyCell [Open positions](https://www.skycell.ch/career//)
 * Syrup [Open positions](https://www.syrup.tech/careers#open-positions)
 * Stratio [Open positions](https://careers.stratioautomotive.com/#jobs)
 * Trimble [Open positions](https://trimblecareers.trimble.com/careers?location=Portugal)
