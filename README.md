@@ -86,6 +86,7 @@ The following companies offer remote jobs and hire in Portugal:
 * Languagewire [Open positions](https://apply.workable.com/languagewire/)
 * Lumenalta [Open positions](https://lumenalta.com/remote-jobs#open-positions)
 * ELSA [Open positions](https://elsaspeak.com/en/career/)
+* Full Fabric [Open positions](https://www.fullfabric.com/company/careers/)
 * GitLab [Open positions](https://job-boards.greenhouse.io/gitlab/)
 * Intermedia [Open positions](https://intermeinc.hrmdirect.com/employment/job-openings.php?search=true)
 * Languagewire [Open positions](https://apply.workable.com/languagewire/)
