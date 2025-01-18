@@ -75,6 +75,7 @@ open an issue.
 
 The following companies offer remote jobs and hire in Portugal:
 
+* Alguna [Open positions](https://www.alguna.io/careers)
 * Anchorage Digital [Open positions](https://jobs.lever.co/anchorage?location=Portugal)
 * Automattic [Open positions](https://automattic.com/work-with-us/)
 * c/side [Open positions](https://jobs.ashbyhq.com/c-side)
