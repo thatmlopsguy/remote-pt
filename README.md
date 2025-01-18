@@ -93,6 +93,7 @@ The following companies offer remote jobs and hire in Portugal:
 * Leadzai [Open positions](https://www.leadzai.com/about-us#open-roles)
 * Miro [Open positions](https://miro.com/careers/open-positions/?location=remote-emea)
 * Namecheap [Open positions](https://www.namecheap.com/careers/)
+* OfferFit [Open positions](https://www.offerfit.ai/careers/)
 * Orcid [Open positions](https://info.orcid.org/work-with-us/)
 * PagerDuty [Open positions](https://careers.pagerduty.com/jobs/search?page=1&remote=true&country_codes%5B%5D=PT&query=)
 * Pagos [Open positions](https://pagos.ai/careers)
