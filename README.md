@@ -122,7 +122,6 @@ The following companies offer remote jobs and hire in Portugal:
 The following sites list remote jobs. Some offers list explicitly Portugal, which likely mean hiring with permanent contracts
 in Portugal. However, offers that do not show a location, or that list many countries, are likely freelancing roles.
 
-* Jobgether.com [Open positions](https://jobgether.com/search-offers?locations=622a65b2671f2c8b98fac7ae)
 * levels.fyi [Open positions](https://www.levels.fyi/jobs/location/portugal?locationSlug=portugal)
 * Remote.com [Open positions](https://remote.com/jobs/all?workplaceLocation=remote&country=PRT)
 * Wellfound (formerly AngelList Talent) [Open positions](https://wellfound.com/location/portugal)
