@@ -101,6 +101,7 @@ The following companies offer remote jobs and hire in Portugal:
 * Orcid [Open positions](https://info.orcid.org/work-with-us/)
 * PagerDuty [Open positions](https://careers.pagerduty.com/jobs/search?page=1&remote=true&country_codes%5B%5D=PT&query=)
 * Pagos [Open positions](https://pagos.ai/careers)
+* Pandadoc [Open positions](https://www.pandadoc.com/careers/#openings)
 * Parity [Open positions](https://www.parity.io/careers)
 * Phaidra [Open positions](https://www.phaidra.ai/careers)
 * Poolside [Open positions](https://poolside.ai/careers)
