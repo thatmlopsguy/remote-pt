@@ -8,6 +8,7 @@ repo_name: remote-pt
 # Navigation
 nav:
   - Introduction: index.md
+  - Contributing: contributing.md
 
 # Configuration
 theme:
