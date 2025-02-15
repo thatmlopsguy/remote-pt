@@ -1,0 +1,39 @@
+ite_name: Remote PT
+site_description: List of companies which offer full-time remote jobs with Portuguese contracts 
+
+# Repository
+repo_url: https://github.com/thatmlopsguy/remote-pt
+repo_name: remote-pt
+
+# Navigation
+nav:
+  - Introduction: index.md
+
+# Configuration
+theme:
+  name: "material"
+  locale: en
+  font: false
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+markdown_extensions:
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.snippets:
+      check_paths: true
