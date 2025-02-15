@@ -1,5 +1,7 @@
 # Remote tech jobs in Portugal 🇵🇹
 
+[![docs](https://github.com/thatmlopsguy/remote-pt/actions/workflows/docs.yml/badge.svg)](https://github.com/thatmlopsguy/remote-pt/actions/workflows/docs.yml)
+
 ## Introduction
 
 This is a repository listing companies which **offer full-time remote jobs with Portuguese contracts**.
