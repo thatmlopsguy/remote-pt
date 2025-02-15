@@ -83,6 +83,7 @@ The following companies offer remote jobs and hire in Portugal:
 * Automattic [Open positions](https://automattic.com/work-with-us/)
 * c/side [Open positions](https://jobs.ashbyhq.com/c-side)
 * Coalition [Open positions](https://careers.coalitioninc.com/jobs/)
+* Coverflex [Open positions](https://careers.coverflex.com/)
 * Crossover [Open positions](https://www.crossover.com/jobs)
 * Datadog [Open positions](https://careers.datadoghq.com/)
 * Diagrid [Open positions](https://www.diagrid.io/careers/)
