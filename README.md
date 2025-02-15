@@ -76,6 +76,7 @@ open an issue.
 The following companies offer remote jobs and hire in Portugal:
 
 * Alguna [Open positions](https://www.alguna.io/careers)
+* Altar.io [Open positions](https://careers.altar.io/jobs/)
 * Anchorage Digital [Open positions](https://jobs.lever.co/anchorage?location=Portugal)
 * Automattic [Open positions](https://automattic.com/work-with-us/)
 * c/side [Open positions](https://jobs.ashbyhq.com/c-side)
@@ -104,7 +105,7 @@ The following companies offer remote jobs and hire in Portugal:
 * RevenueCat [Open positions](https://www.revenuecat.com/careers/)
 * Salsify [Open positions](https://www.salsify.com/careers/current-listings)
 * Sherpany [Open positions](https://www.sherpany.com/en/careers/open-positions/)
-* SkyCell [Open positions](https://www.skycell.ch/career//)
+* SkyCell [Open positions](https://www.skycell.ch/career/)
 * Syrup [Open positions](https://www.syrup.tech/careers#open-positions)
 * Stratio [Open positions](https://careers.stratioautomotive.com/#jobs)
 * Trimble [Open positions](https://trimblecareers.trimble.com/careers?location=Portugal)
