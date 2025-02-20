@@ -72,6 +72,7 @@ The following companies offer remote jobs and hire in Portugal:
 * ELSA [Open positions](https://elsaspeak.com/en/career/)
 * Full Fabric [Open positions](https://www.fullfabric.com/company/careers/)
 * GitLab [Open positions](https://job-boards.greenhouse.io/gitlab/)
+* Intercept [Open positions](https://careers.intercept.cloud/)
 * Intermedia [Open positions](https://intermeinc.hrmdirect.com/employment/job-openings.php?search=true)
 * Languagewire [Open positions](https://apply.workable.com/languagewire/)
 * Leadzai [Open positions](https://www.leadzai.com/about-us#open-roles)
