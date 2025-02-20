@@ -67,6 +67,7 @@ The following companies offer remote jobs and hire in Portugal:
 * Crossover [Open positions](https://www.crossover.com/jobs)
 * Datadog [Open positions](https://careers.datadoghq.com/)
 * Diagrid [Open positions](https://www.diagrid.io/careers/)
+* Eqvilent [Open positions](https://www.eqvilent.com/careers/)
 * Languagewire [Open positions](https://apply.workable.com/languagewire/)
 * Lumenalta [Open positions](https://lumenalta.com/remote-jobs#open-positions)
 * ELSA [Open positions](https://elsaspeak.com/en/career/)
