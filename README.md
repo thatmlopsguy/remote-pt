@@ -117,8 +117,6 @@ in Portugal. However, offers that do not show a location, or that list many coun
 
 - [@thatmlopsguy](https://github.com/thatmlopsguy)
 
-Built and maintained by
-
 ## Contributors
 
 <a href="https://github.com/thatmlopsguy/remote-pt/graphs/contributors">
