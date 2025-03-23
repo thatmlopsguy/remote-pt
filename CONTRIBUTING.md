@@ -2,6 +2,17 @@
 
 If you find something wrong or want to add another company please contribute with a pull request.
 
+## Offers
+
+Please provide a stable URL which lists all offers that meet the conditions for being listed in this page (or a simple 
+way to filter/locate them). Recommendations:
+
+* Not using an URL or page that seems to be for a specific offer (e.g. `/blog/backend_python_dev`). People browsing the
+  list might not feel confident that the offer is still available and up to date
+* Showing clearly when offers were posted
+* Highlight clearly which offers fulfill the criteria for this listing or that all offers do. For instance, indicate
+  clearly which offers are remote, etc.
+
 ## Adding a company
 
 If you are a company or an individual, send a PR which adds the company to the list (in alphabetical order). Try to be

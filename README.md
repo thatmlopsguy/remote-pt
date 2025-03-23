@@ -22,9 +22,7 @@ remote work; they can simply go through the list and look for open positions.
 
 ## Conditions
 
-### Remote
-
-**Only list companies which allow working fully remotely** (e.g. you can work from anywhere in Portugal and you do not
+**Only companies which allow working fully remotely** (e.g. you can work from anywhere in Portugal and you do not
 have to set foot in an office if you don't want to). Some occasional traveling for onboarding, team building or similar
 purposes is fine. Also the companies must also hire people using Portuguese full-time contracts (i.e. not self-employment).
 For example, the following scenarios are OK:
@@ -34,17 +32,6 @@ For example, the following scenarios are OK:
   self-employed contracts
 * A foreign company, using an intermediary to hire people living in Portugal, but the contract must also be Portuguese,
   not requiring self-employment.
-
-### Offers
-
-Please provide a stable URL which lists all offers that meet the conditions for being listed in this page (or a simple 
-way to filter/locate them). Recommendations:
-
-* Not using an URL or page that seems to be for a specific offer (e.g. `/blog/backend_python_dev`). People browsing the
-  list might not feel confident that the offer is still available and up to date
-* Showing clearly when offers were posted
-* Highlight clearly which offers fulfill the criteria for this listing or that all offers do. For instance, indicate
-  clearly which offers are remote, etc.
 
 ## Support
 
