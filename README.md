@@ -65,6 +65,7 @@ The following companies offer remote jobs and hire in Portugal:
 * Coalition [Open positions](https://careers.coalitioninc.com/jobs/)
 * Coverflex [Open positions](https://careers.coverflex.com/)
 * Crossover [Open positions](https://www.crossover.com/jobs)
+* Dash0 [Open positions](https://careers.dash0.com/)
 * Datadog [Open positions](https://careers.datadoghq.com/)
 * Diagrid [Open positions](https://www.diagrid.io/careers/)
 * Exnaton [Open positions](https://exnaton-ag.jobs.personio.com/)
