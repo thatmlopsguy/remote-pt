@@ -112,3 +112,17 @@ in Portugal. However, offers that do not show a location, or that list many coun
 * [Tech Companies in Portugal](https://github.com/marmelo/tech-companies-in-portugal)
 * [remote-es/remotes](https://github.com/remote-es/remotes)
 * Italy [Awesome Italia Remote](https://github.com/italiaremote/awesome-italia-remote)
+
+## Built and maintained by
+
+- [@thatmlopsguy](https://github.com/thatmlopsguy)
+
+Built and maintained by
+
+## Contributors
+
+<a href="https://github.com/thatmlopsguy/remote-pt/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=thatmlopsguy/remote-pt" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
