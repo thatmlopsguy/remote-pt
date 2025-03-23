@@ -1,0 +1,24 @@
+name: Validate links
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+  schedule:
+    - cron: "00 18 * * *"
+
+jobs:
+  val-links:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate links
+        uses: lycheeverse/lychee-action@v2.3.0
+        with:
+          args: --config .github/configs/lychee.toml -- README.md
+          jobSummary: true
