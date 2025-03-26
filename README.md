@@ -77,6 +77,7 @@ The following companies offer remote jobs and hire in Portugal:
 * Parity [Open positions](https://www.parity.io/careers)
 * Phaidra [Open positions](https://www.phaidra.ai/careers)
 * Poolside [Open positions](https://poolside.ai/careers)
+* Proton.ai [Open positions](https://www.proton.ai/careers)
 * Remote [Open positions](https://boards.greenhouse.io/remotecom)
 * RevenueCat [Open positions](https://www.revenuecat.com/careers/)
 * Salsify [Open positions](https://www.salsify.com/careers/current-listings)
