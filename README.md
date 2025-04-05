@@ -1,6 +1,7 @@
 # Remote tech jobs in Portugal 🇵🇹
 
 [![docs](https://github.com/thatmlopsguy/remote-pt/actions/workflows/docs.yml/badge.svg)](https://github.com/thatmlopsguy/remote-pt/actions/workflows/docs.yml)
+[![Validate links](https://github.com/thatmlopsguy/remote-pt/actions/workflows/links.yml/badge.svg)](https://github.com/thatmlopsguy/remote-pt/actions/workflows/links.yml)
 
 ## Introduction
 
