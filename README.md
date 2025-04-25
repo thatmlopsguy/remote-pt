@@ -81,7 +81,7 @@ The following companies offer remote jobs and hire in Portugal:
 * Poolside [Open positions](https://poolside.ai/careers)
 * Proton.ai [Open positions](https://www.proton.ai/careers)
 * Remote [Open positions](https://boards.greenhouse.io/remotecom)
-* RevenueCat [Open positions](https://www.revenuecat.com/careers/)
+* RevenueCat [Open positions](https://jobs.ashbyhq.com/revenuecat)
 * Salsify [Open positions](https://www.salsify.com/careers/current-listings)
 * Sherpany [Open positions](https://www.sherpany.com/en/careers/open-positions/)
 * SkyCell [Open positions](https://skycell.ch/about-us/careers.html)
