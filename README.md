@@ -2,6 +2,7 @@
 
 [![docs](https://github.com/thatmlopsguy/remote-pt/actions/workflows/docs.yml/badge.svg)](https://github.com/thatmlopsguy/remote-pt/actions/workflows/docs.yml)
 [![Validate links](https://github.com/thatmlopsguy/remote-pt/actions/workflows/links.yml/badge.svg)](https://github.com/thatmlopsguy/remote-pt/actions/workflows/links.yml)
+[![Security hardening (Github Actions workflows)](https://github.com/thatmlopsguy/remote-pt/actions/workflows/security.yml/badge.svg)](https://github.com/thatmlopsguy/remote-pt/actions/workflows/security.yml)
 
 ## Introduction
 
