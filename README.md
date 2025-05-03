@@ -54,6 +54,7 @@ The following companies offer remote jobs and hire in Portugal:
 * Ceros [Open positions](https://www.ceros.com/jobs/)
 * c/side [Open positions](https://jobs.ashbyhq.com/c-side)
 * Coalition [Open positions](https://careers.coalitioninc.com/jobs/)
+* Complear [Open positions](https://complear.com/jobs/)
 * Coverflex [Open positions](https://careers.coverflex.com/)
 * Crossover [Open positions](https://www.crossover.com/jobs)
 * Dash0 [Open positions](https://careers.dash0.com/)
