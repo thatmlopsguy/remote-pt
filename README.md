@@ -95,6 +95,7 @@ The following companies offer remote jobs and hire in Portugal:
 * Trimble [Open positions](https://trimblecareers.trimble.com/careers?location=Portugal)
 * Unleash [Open positions](https://www.getunleash.io/careers)
 * Wellhub [Open positions](https://wellhub.com/careers)
+* YAZIO [Open positions](https://www.yazio.com/en/jobs)
 * YLD [Open positions](https://www.yld.io/join-us)
 * Zartis [Open positions](https://www.zartis.com/careers/)
 * ZigZag Global [Open positions](https://apply.workable.com/zigzag-global/)
