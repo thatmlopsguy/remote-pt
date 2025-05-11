@@ -50,7 +50,6 @@ The following companies offer remote jobs and hire in Portugal:
 * Altar.io [Open positions](https://careers.altar.io/jobs/)
 * Anchorage Digital [Open positions](https://jobs.lever.co/anchorage?location=Portugal)
 * Automattic [Open positions](https://automattic.com/work-with-us/)
-* Cast AI [Open positions](https://castai.teamtailor.com/)
 * Ceros [Open positions](https://www.ceros.com/jobs/)
 * c/side [Open positions](https://jobs.ashbyhq.com/c-side)
 * Coalition [Open positions](https://careers.coalitioninc.com/jobs/)
