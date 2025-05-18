@@ -87,6 +87,7 @@ The following companies offer remote jobs and hire in Portugal:
 * RevenueCat [Open positions](https://jobs.ashbyhq.com/revenuecat)
 * Salsify [Open positions](https://www.salsify.com/careers/current-listings)
 * Sherpany [Open positions](https://www.sherpany.com/en/careers/open-positions/)
+* Simperis [pen positions](https://www.semperis.com/careers/)
 * SkyCell [Open positions](https://skycell.ch/about-us/careers.html)
 * Sona [Open positions](https://jobs.ashbyhq.com/Sona)
 * Sporty Group [Open positions](https://careers.sporty.com/#)
