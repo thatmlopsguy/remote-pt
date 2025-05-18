@@ -59,6 +59,7 @@ The following companies offer remote jobs and hire in Portugal:
 * Dash0 [Open positions](https://careers.dash0.com/)
 * Datadog [Open positions](https://careers.datadoghq.com/)
 * Diagrid [Open positions](https://www.diagrid.io/careers/)
+* Douro Labs [Open positions](https://jobs.ashbyhq.com/dourolabs.xyz/)
 * Exnaton [Open positions](https://exnaton-ag.jobs.personio.com/)
 * Languagewire [Open positions](https://apply.workable.com/languagewire/)
 * Lumenalta [Open positions](https://lumenalta.com/remote-jobs#open-positions)
