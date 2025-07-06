@@ -128,11 +128,3 @@ in Portugal. However, offers that do not show a location, or that list many coun
 ## Built and maintained by
 
 - [@thatmlopsguy](https://github.com/thatmlopsguy)
-
-## Contributors
-
-<a href="https://github.com/thatmlopsguy/remote-pt/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=thatmlopsguy/remote-pt" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
