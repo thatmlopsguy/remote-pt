@@ -9,6 +9,16 @@ repo_name: remote-pt
 nav:
   - Introduction: index.md
   - Contributing: contributing.md
+  - Guide:
+    - Overview: guide/overview.md
+    - Introduction: guide/introduction.md
+    - Building Your Portfolio: guide/portfolio.md
+    - Job Search Strategies: guide/search.md
+    - Interview Process:
+      - Initial: guide/interviews/initial.md
+      - Technical: guide/interviews/technical.md
+      - Cultural: guide/interviews/cultural.md
+    - Offer: guide/offer.md
 
 # Configuration
 theme:
@@ -32,6 +42,7 @@ theme:
         name: Switch to dark mode
 
 markdown_extensions:
+  - admonition
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.tabbed:
