@@ -49,6 +49,7 @@ The following companies offer remote jobs and hire in Portugal:
 * Alguna [Open positions](https://www.alguna.io/careers)
 * Altar.io [Open positions](https://careers.altar.io/jobs/)
 * Anchorage Digital [Open positions](https://jobs.lever.co/anchorage?location=Portugal)
+* Ascent[Open positions](https://www.ascent.io/careers/)
 * Ashby [Open positions](https://www.ashbyhq.com/careers)
 * Automattic [Open positions](https://automattic.com/work-with-us/)
 * c/side [Open positions](https://jobs.ashbyhq.com/c-side)
