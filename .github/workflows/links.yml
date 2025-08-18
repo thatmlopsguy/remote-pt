@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - README.md
+      - docs/**
   schedule:
     - cron: "00 18 * * *"
 

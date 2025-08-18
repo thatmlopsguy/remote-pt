@@ -6,6 +6,8 @@ on:
       - main
     paths:
       - README.md
+      - CONTRIBUTING.md
+      - docs/**
 
 permissions:
   contents: write
