@@ -1,50 +1,62 @@
-# Remote tech jobs in Portugal 🇵🇹
+
+# 🇵🇹 Remote Tech Jobs in Portugal
 
 [![docs](https://github.com/thatmlopsguy/remote-pt/actions/workflows/docs.yml/badge.svg)](https://github.com/thatmlopsguy/remote-pt/actions/workflows/docs.yml)
 [![Validate links](https://github.com/thatmlopsguy/remote-pt/actions/workflows/links.yml/badge.svg)](https://github.com/thatmlopsguy/remote-pt/actions/workflows/links.yml)
 [![Security hardening (Github Actions workflows)](https://github.com/thatmlopsguy/remote-pt/actions/workflows/security.yml/badge.svg)](https://github.com/thatmlopsguy/remote-pt/actions/workflows/security.yml)
 
+<p align="center">
+  <b>Curated list of companies offering full-time remote tech jobs with Portuguese contracts.</b><br>
+  <i>Helping tech professionals in Portugal find remote opportunities—no self-employment required!</i>
+</p>
+
+---
+
 ## Introduction
 
-Are you seeking a job?
+Welcome! This repository lists companies that **offer full-time remote tech jobs with Portuguese contracts**.
+If you live in Portugal and want to work remotely without the hassle of self-employment, this list is for you.
 
-This is a repository listing companies which **offer full-time remote jobs with Portuguese contracts**.
+## Why This List?
 
-## Why
+While remote work opens global opportunities, Portuguese residents often face challenges when working for foreign companies, such as:
 
-When considering a remote job, it's natural to think that you can work for any company in the world.
-However, if you live in Portugal, working for companies abroad means becoming self-employed, which has several drawbacks:
+- Needing to become self-employed ("recibos verdes")
+- Less job security (contracts can be ended at any time)
+- Extra paperwork and tax complexity
 
-* Your employer can end your contract at any time;
-* You need to do extra paperwork compared to a regular full-time job;
-
-There is a significant amount of resources to find a remote job, but none targeting people living in Portugal.
-The number of companies allowing remote work in Portugal are limited, a list seems a good approach for those seeking a
-remote work; they can simply go through the list and look for open positions.
+This list focuses on companies that hire with **Portuguese full-time contracts**, so you can enjoy the benefits of regular employment
+while working remotely from anywhere in Portugal.
 
 ## Conditions
 
-**Only companies which allow working fully remotely** (e.g. you can work from anywhere in Portugal and you do not
-have to set foot in an office if you don't want to). Some occasional traveling for onboarding, team building or similar
-purposes is fine. Also the companies must also hire people using Portuguese full-time contracts (i.e. not self-employment).
-For example, the following scenarios are OK:
+**Inclusion criteria:**
 
-* A completely Portuguese company that hires in Portugal with regular, non self-employed contracts people living in Portugal
-* A foreign company, with a Portuguese legal entity to be able to hire people living in Portugal, using regular, non 
-  self-employed contracts
-* A foreign company, using an intermediary to hire people living in Portugal, but the contract must also be Portuguese,
-  not requiring self-employment.
+- Companies must allow fully remote work from anywhere in Portugal (occasional travel for onboarding/team events is fine)
+- Must hire with Portuguese full-time contracts (not self-employment)
+
+Examples:
+
+- Portuguese companies hiring locally with standard contracts
+- Foreign companies with a Portuguese legal entity
+- Foreign companies using an intermediary, as long as the contract is Portuguese and not freelance/self-employed
+
+## How to Use
+
+1. Browse the [Companies](#companies) section below.
+2. Click on "Open positions" to see current job openings.
+3. Double-check that the offer is remote and the contract is Portuguese.
+4. Explore [Other Job Boards](#other-job-boards) for more opportunities.
+
 
 ## Support
 
-It is our objective for this list to remain useful and effective for job searchers. 
-If you use this list and notice that a company listed below is no longer useful (broken URL, not clearly listing remote
-offers which fulfill the criteria for the listing, etc.), please send a PR removing it (along with a justification) or 
-open an issue.
+We want this list to stay up-to-date and useful! If you notice outdated info, broken links, or companies that no longer meet the criteria, please [open an issue](https://github.com/thatmlopsguy/remote-pt/issues) or submit a pull request.
+
 
 ## Companies
 
-The following companies offer remote jobs and hire in Portugal:
+The following companies offer remote tech jobs and hire in Portugal with full-time contracts:
 
 * Alguna [Open positions](https://www.alguna.io/careers)
 * Altar.io [Open positions](https://careers.altar.io/jobs/)
@@ -104,10 +116,10 @@ The following companies offer remote jobs and hire in Portugal:
 * Zartis [Open positions](https://www.zartis.com/careers/)
 * ZigZag Global [Open positions](https://apply.workable.com/zigzag-global/)
 
-## Others
 
-The following sites list remote jobs. Some offers list explicitly Portugal, which likely mean hiring with permanent contracts
-in Portugal. However, offers that do not show a location, or that list many countries, are likely freelancing roles.
+## Other Job Boards
+
+The following sites list remote jobs. Some offers list Portugal specifically (likely permanent contracts), but others may be freelance or multi-country roles:
 
 * levels.fyi [Open positions](https://www.levels.fyi/jobs/location/portugal?locationSlug=portugal)
 * Remote.com [Open positions](https://remote.com/jobs/all?workplaceLocation=remote&country=PRT)
@@ -119,7 +131,16 @@ in Portugal. However, offers that do not show a location, or that list many coun
 * [European Remote (Portugal)](https://europeanremote.com/hiring-locations/portugal)
 * [r/devpt Quem Está a Contratar?](https://www.reddit.com/r/devpt/search/?q=%22Quem+Est%C3%A1+a+Contratar%3F%22&restrict_sr=1&sort=new)
 
-## Related projects
+## Contributing
+
+Contributions are welcome! Please see **contribution** page for guidelines.
+If you have suggestions, new companies to add, or corrections, feel free to open a pull request or issue.
+
+<p align="center">
+  <i>Made with ❤️ for the Portuguese tech community.</i>
+</p>
+
+## Related Projects
 
 * [Tech Companies in Portugal](https://github.com/marmelo/tech-companies-in-portugal)
 * [remote-es/remotes](https://github.com/remote-es/remotes)
