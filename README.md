@@ -116,7 +116,6 @@ in Portugal. However, offers that do not show a location, or that list many coun
 * ["Who's hiring?" monthly thread on Hacker News](https://www.hacker-jobs.com/)
 * [Lobste.rs "Who's Hiring?" quarterly job theards](https://lobste.rs/t/job)
 * Landing.jobs [Open positions](https://landing.jobs/jobs)
-* EuRemoteJobs.com (Portugal) [Open positions](https://euremotejobs.com/job-region/remote-jobs-portugal/)
 * [European Remote (Portugal)](https://europeanremote.com/hiring-locations/portugal)
 * [r/devpt Quem Está a Contratar?](https://www.reddit.com/r/devpt/search/?q=%22Quem+Est%C3%A1+a+Contratar%3F%22&restrict_sr=1&sort=new)
 
@@ -125,7 +124,3 @@ in Portugal. However, offers that do not show a location, or that list many coun
 * [Tech Companies in Portugal](https://github.com/marmelo/tech-companies-in-portugal)
 * [remote-es/remotes](https://github.com/remote-es/remotes)
 * Italy [Awesome Italia Remote](https://github.com/italiaremote/awesome-italia-remote)
-
-## Built and maintained by
-
-- [@thatmlopsguy](https://github.com/thatmlopsguy)
