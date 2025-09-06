@@ -48,11 +48,9 @@ Examples:
 3. Double-check that the offer is remote and the contract is Portuguese.
 4. Explore [Other Job Boards](#other-job-boards) for more opportunities.
 
-
 ## Support
 
 We want this list to stay up-to-date and useful! If you notice outdated info, broken links, or companies that no longer meet the criteria, please [open an issue](https://github.com/thatmlopsguy/remote-pt/issues) or submit a pull request.
-
 
 ## Companies
 
@@ -117,7 +115,6 @@ The following companies offer remote tech jobs and hire in Portugal with full-ti
 * YLD [Open positions](https://www.yld.io/join-us)
 * Zartis [Open positions](https://www.zartis.com/careers/)
 * ZigZag Global [Open positions](https://apply.workable.com/zigzag-global/)
-
 
 ## Other Job Boards
 
