@@ -15,6 +15,10 @@
 ## Prepare Your Interview Space
 
 - For phone or video interviews, set up a quiet space where you won’t be disturbed. For video calls, ensure your background is tidy and professional.
+- Make sure that anyone around you knows that you will need to be uninterrupted and, if possible, use a room that has a door that you can close.
+- Make sure you have a glass of water nearby in case your voice gets hoarse or you get a tickle in your throat.
+- Connect via ethernet cable for better bandwidth if possible. Close background apps. Test camera/microphone beforehand and log in 5-10 minutes early to verify equipment works.
+- Keep a pen and notepad nearby in case there is something important that you need to write down.
 - For in-person interviews, consider visiting the location beforehand or plan your route to avoid being late or getting lost.
 
 ## Practice Interview Etiquette
@@ -42,6 +46,20 @@ If you’re unsure of an answer, don’t just say “I don’t know.” Instead,
 Ask Questions. Use your research to ask thoughtful questions specific to the company and role.
 
 Refer to your research to highlight what excites you about the company and position.
+
+If audio or video fails during your interview, use the chat function to communicate with the interviewer. 
+Always keep your phone nearby as a backup option for continuing the conversation over a regular phone call. 
+If you experience any technical difficulties with seeing or hearing the interviewer, don't hesitate to speak
+up so the issue can be addressed promptly.
+
+When dealing with unexpected background noise such as sirens or construction, address the interruption professionally
+by apologizing for the disturbance. You can ask for a brief pause until the noise subsides, or temporarily mute
+your microphone until the noise has stopped.
+
+If you anticipate potential disruptions due to circumstances like school closures or family emergencies, inform the
+interviewer at the beginning of the interview. This allows both parties to adjust accordingly and plan for potential
+interruptions. When unexpected challenges arise during the interview, remain composed and work collaboratively with
+the interviewer to find suitable solutions.
 
 ## After the Interview
 
