@@ -36,3 +36,5 @@ your listings. Tag your offer with:
   availability 8-9 Europe/Lisbon).
 
 Thanks for contributing!
+
+Made with ❤️ for the Portuguese tech community.
