@@ -109,6 +109,7 @@ The following companies offer remote tech jobs and hire in Portugal with full-ti
 * Sporty Group [Open positions](https://careers.sporty.com/#)
 * Syrup [Open positions](https://www.syrup.tech/careers#open-positions)
 * Stratio [Open positions](https://careers.stratioautomotive.com/#jobs)
+* Tillster [Open positions](https://www.tillster.com/careers)
 * Trimble [Open positions](https://trimblecareers.trimble.com/careers?location=Portugal)
 * Unleash [Open positions](https://www.getunleash.io/careers)
 * Wellhub [Open positions](https://wellhub.com/careers)
