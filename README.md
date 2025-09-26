@@ -62,6 +62,7 @@ The following companies offer remote tech jobs and hire in Portugal with full-ti
 * Ascent [Open positions](https://www.ascent.io/careers/)
 * Ashby [Open positions](https://www.ashbyhq.com/careers)
 * Automattic [Open positions](https://automattic.com/work-with-us/)
+* Board of Innovation [Open positions](https://www.boardofinnovation.com/join-us/)
 * c/side [Open positions](https://jobs.ashbyhq.com/c-side)
 * Ceros [Open positions](https://www.ceros.com/jobs/)
 * Clavium [Open positions](https://www.clavium.io/careers)
