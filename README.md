@@ -6,7 +6,7 @@
 [![Security hardening (Github Actions workflows)](https://github.com/thatmlopsguy/remote-pt/actions/workflows/security.yml/badge.svg)](https://github.com/thatmlopsguy/remote-pt/actions/workflows/security.yml)
 
 <p align="center">
-  <b>Curated list of companies offering full-time remote tech jobs with Portuguese contracts.</b><br>
+  <b>Curated list of companies offering full-time remote tech jobs with Portuguese contracts.</b>
   <i>Helping tech professionals in Portugal find remote opportunities—no self-employment required!</i>
 </p>
 
