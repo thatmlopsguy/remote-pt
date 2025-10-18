@@ -82,7 +82,7 @@ The following companies offer remote tech jobs and hire in Portugal with full-ti
 * Hyland [Open positions](https://www.hyland.com/en/company/careers/)
 * GitLab [Open positions](https://job-boards.greenhouse.io/gitlab/)
 * Intercept [Open positions](https://careers.intercept.cloud/)
-* Intermedia [Open positions](https://intermeinc.hrmdirect.com/employment/job-openings.php?search=true)
+* Intermedia [Open positions](https://intermedia.pinpointhq.com/)
 * Languagewire [Open positions](https://apply.workable.com/languagewire/)
 * Leadzai [Open positions](https://www.leadzai.com/about-us#open-roles)
 * Lokalise [Open positions](https://lokalise.com/careers)
