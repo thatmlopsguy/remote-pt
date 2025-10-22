@@ -107,7 +107,7 @@ The following companies offer remote tech jobs and hire in Portugal with full-ti
 * Salsify [Open positions](https://www.salsify.com/careers/current-listings)
 * Sherpany [Open positions](https://www.sherpany.com/en/careers/open-positions/)
 * Simperis [Open positions](https://www.semperis.com/careers/)
-* SkyCell [Open positions](https://skycell.ch/about-us/careers)
+* SkyCell [Open positions](https://apply.workable.com/skycell-ag/)
 * Sona [Open positions](https://jobs.ashbyhq.com/Sona)
 * Sporty Group [Open positions](https://careers.sporty.com/#)
 * SpotMe [Open positions](https://spotme.com/jobs/)
