@@ -57,6 +57,7 @@ We want this list to stay up-to-date and useful! If you notice outdated info, br
 The following companies offer remote tech jobs and hire in Portugal with full-time contracts:
 
 * 8x8 [Open positions](https://www.8x8.com/careers/jobs?location=Fuze+Portugal+-+Remote)
+* Aircall [Open positions](https://jobs.lever.co/aircall/)
 * Alguna [Open positions](https://www.alguna.io/careers)
 * Altar.io [Open positions](https://careers.altar.io/jobs/)
 * Anchorage Digital [Open positions](https://jobs.lever.co/anchorage?location=Portugal)
