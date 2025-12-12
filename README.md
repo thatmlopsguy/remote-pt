@@ -74,6 +74,7 @@ The following companies offer remote tech jobs and hire in Portugal with full-ti
 * Coverflex [Open positions](https://careers.coverflex.com/)
 * Crossover [Open positions](https://www.crossover.com/jobs)
 * Dash0 [Open positions](https://careers.dash0.com/)
+* Datacamp [Open positions](https://www.datacamp.com/jobs)
 * Datadog [Open positions](https://careers.datadoghq.com/)
 * Diagrid [Open positions](https://www.diagrid.io/careers/)
 * Douro Labs [Open positions](https://jobs.ashbyhq.com/dourolabs.xyz/)
