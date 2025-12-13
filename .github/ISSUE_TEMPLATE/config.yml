@@ -9,6 +9,3 @@ contact_links:
   - name: ❓ Support Resources
     url: https://github.com/thatmlopsguy/remote-pt/blob/main/CONTRIBUTING.md
     about: Learn how to get help and where to ask questions
-  - name: 🏢 Add a Company
-    url: https://github.com/thatmlopsguy/remote-pt/issues/new?template=add-new-company.md
-    about: Request to add a new remote-friendly company to the list

@@ -1,5 +1,5 @@
 ---
-name: Add new company to the list
+name: 🏢 Add new company to the list
 about: Request a company to be added to the list
 title: Add <COMPANY_NAME>
 labels: ['add company']
