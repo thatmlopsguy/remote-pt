@@ -109,6 +109,7 @@ The following companies offer remote tech jobs and hire in Portugal with full-ti
 * Red Hat [Open positions](https://redhat.wd5.myworkdayjobs.com/jobs/?a=2e8c5034deb045d49315417c347472ca)
 * Remote [Open positions](https://boards.greenhouse.io/remotecom)
 * RevenueCat [Open positions](https://jobs.ashbyhq.com/revenuecat)
+* Rush Street Interactive [Open positions](https://www.rushstreetinteractive.com/careers)
 * Salsify [Open positions](https://www.salsify.com/careers/current-listings)
 * Sherpany [Open positions](https://www.sherpany.com/en/careers/open-positions/)
 * Simperis [Open positions](https://www.semperis.com/careers/)
