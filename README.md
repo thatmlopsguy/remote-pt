@@ -71,6 +71,7 @@ The following companies offer remote tech jobs and hire in Portugal with full-ti
 * Coalition [Open positions](https://careers.coalitioninc.com/jobs/)
 * Complear [Open positions](https://complear.com/jobs/)
 * Constructor [Open positions](https://constructor.com/about/careers)
+* Corva [Open positions](https://www.corva.ai/company/careers)
 * Coverflex [Open positions](https://careers.coverflex.com/)
 * Crossover [Open positions](https://www.crossover.com/jobs)
 * Dash0 [Open positions](https://careers.dash0.com/)
