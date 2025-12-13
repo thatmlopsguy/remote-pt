@@ -93,6 +93,7 @@ The following companies offer remote tech jobs and hire in Portugal with full-ti
 * Lokalise [Open positions](https://lokalise.com/careers)
 * Lumenalta [Open positions](https://lumenalta.com/remote-jobs#open-positions)
 * Miro [Open positions](https://miro.com/careers/open-positions/?location=remote-emea)
+* Motion [Open positions](https://motionapp.com/careers)
 * n8n [Open positions](https://n8n.io/careers/?ashby_location_id=6ea785e9-550b-4c78-ba83-0131675fddf8#job-board)
 * Namecheap [Open positions](https://www.namecheap.com/careers)
 * OfferFit [Open positions](https://www.offerfit.ai/careers)
