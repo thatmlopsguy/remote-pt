@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 GitHub Discussions
+    url: https://github.com/thatmlopsguy/remote-pt/discussions
+    about: Ask questions, share ideas, and discuss with the community
+  - name: 📚 Documentation
+    url: https://thatmlopsguy.github.io/remote-pt/
+    about: Read the documentation before reporting issues
+  - name: ❓ Support Resources
+    url: https://github.com/thatmlopsguy/remote-pt/blob/main/CONTRIBUTING.md
+    about: Learn how to get help and where to ask questions
+  - name: 🏢 Add a Company
+    url: https://github.com/thatmlopsguy/remote-pt/issues/new?template=add-new-company.md
+    about: Request to add a new remote-friendly company to the list
