@@ -104,6 +104,7 @@ The following companies offer remote tech jobs and hire in Portugal with full-ti
 * Pandadoc [Open positions](https://www.pandadoc.com/careers)
 * Parity [Open positions](https://www.parity.io/careers)
 * Phaidra [Open positions](https://www.phaidra.ai/careers)
+* Primer [Open positions](https://primer.io/careers)
 * Poolside [Open positions](https://poolside.ai/careers)
 * Proton.ai [Open positions](https://www.proton.ai/careers)
 * Qodea [Open positions](https://apply.workable.com/qodea/)
