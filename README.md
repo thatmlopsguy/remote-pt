@@ -68,6 +68,7 @@ The following companies offer remote tech jobs and hire in Portugal with full-ti
 * c/side [Open positions](https://jobs.ashbyhq.com/c-side)
 * Ceros [Open positions](https://www.ceros.com/jobs/)
 * Clavium [Open positions](https://www.clavium.io/careers)
+* Cloudbeds [Open positions](https://www.cloudbeds.com/careers/)
 * Coalition [Open positions](https://careers.coalitioninc.com/jobs/)
 * Complear [Open positions](https://complear.com/jobs/)
 * Constructor [Open positions](https://constructor.com/about/careers)
