@@ -19,6 +19,7 @@ nav:
       - Technical: guide/interviews/technical.md
       - Cultural: guide/interviews/cultural.md
     - Offer: guide/offer.md
+    - B2B Contracts: guide/b2b.md
 
 # Configuration
 theme:
