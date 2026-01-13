@@ -61,6 +61,7 @@ The following companies offer remote tech jobs and hire in Portugal with full-ti
 * Alguna [Open positions](https://www.alguna.io/careers)
 * Altar.io [Open positions](https://careers.altar.io/jobs/)
 * Anchorage Digital [Open positions](https://jobs.lever.co/anchorage?location=Portugal)
+* Ardanis [Open positions](https://ardanis.com/careers/)
 * Ascent [Open positions](https://www.ascent.io/careers/)
 * Ashby [Open positions](https://www.ashbyhq.com/careers)
 * Automattic [Open positions](https://automattic.com/work-with-us/)
