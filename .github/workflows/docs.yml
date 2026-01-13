@@ -27,13 +27,5 @@ jobs:
         with:
           enable-cache: true
 
-      - run: echo "cache_id=$(date --utc '+%V')" >> "$GITHUB_ENV"
-      - uses: actions/cache@9255dc7a253b0ccc959486e2bca901246202afeb # v5.0.1
-        with:
-          key: mkdocs-material-${{ env.cache_id }}
-          path: .cache
-          restore-keys: |
-            mkdocs-material-
-
       - run: |
           uv run mkdocs gh-deploy --force
