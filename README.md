@@ -63,7 +63,7 @@ The following companies offer remote tech jobs and hire in Portugal with full-ti
 * Anchorage Digital [Open positions](https://jobs.lever.co/anchorage?location=Portugal)
 * Ardanis [Open positions](https://ardanis.com/careers/)
 * Ascent [Open positions](https://www.ascent.io/careers/)
-* Ashby [Open positions](https://www.ashbyhq.com/careers/)
+* Ashby [Open positions](https://www.ashbyhq.com/careers)
 * Automattic [Open positions](https://automattic.com/work-with-us/)
 * Board of Innovation [Open positions](https://www.boardofinnovation.com/join-us/)
 * c/side [Open positions](https://jobs.ashbyhq.com/c-side)
