@@ -3,3 +3,7 @@ repos:
     rev: 0.9.24
     hooks:
       - id: uv-lock
+  - repo: https://github.com/rhysd/actionlint
+    rev: v1.7.10
+    hooks:
+      - id: actionlint
