@@ -1,0 +1,12 @@
+[project]
+site_name = "Remote PT"
+
+nav = [
+  {"Introduction" = "index.md"},
+  {Contributing = "contributing.md"},
+  {"Guide" = [
+     "guide/overview.md",
+     "guide/introduction.md",
+     "guide/portfolio.md"
+  ]}
+]
