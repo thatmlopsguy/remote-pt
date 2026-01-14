@@ -67,7 +67,7 @@ Here’s a template you can use:
     I’m currently struggling to find enough time to prepare for [the next step]. Would it be possible to pause the process and continue from [a specific date you’ll be available]?
 
     Kind regards,
-    
+
     [Your name]
 
 Some companies may not be able to delay their hiring process for long.

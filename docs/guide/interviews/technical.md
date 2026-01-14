@@ -19,8 +19,8 @@ Be proactive in updating the hiring manager, especially if you have questions or
 
     I will be able to complete it by [new date]. Let me know if that’s okay?
 
-    Kind regards, 
-    
+    Kind regards,
+
     [your name]
 
 ## After the Technical Interview
@@ -35,8 +35,8 @@ If you’re submitting an assessment, include a brief note about your experience
 
     I’m excited to hear your feedback and potentially continue with the process. Please let me know if you need anything else from me at this stage.
 
-    Kind regards, 
-    
+    Kind regards,
+
     [your name]
 
 If you only need to submit an assessment:

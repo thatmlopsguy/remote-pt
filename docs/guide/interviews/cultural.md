@@ -67,7 +67,7 @@ If you’re genuinely excited about the opportunity, don’t hesitate to express
 !!! Template
     Hello [hiring manager’s name],
 
-    Thank you for the interview today. I really enjoyed learning more about [company name] and this opportunity. 
+    Thank you for the interview today. I really enjoyed learning more about [company name] and this opportunity.
     I wanted to let you know that I would be very excited to accept a potential offer.
 
     Please let me know if you need anything else from me to make your decision.

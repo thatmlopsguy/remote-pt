@@ -4,7 +4,7 @@ If you find something wrong or want to add another company please contribute wit
 
 ## Offers
 
-Please provide a stable URL which lists all offers that meet the conditions for being listed in this page (or a simple 
+Please provide a stable URL which lists all offers that meet the conditions for being listed in this page (or a simple
 way to filter/locate them). Recommendations:
 
 * Not using an URL or page that seems to be for a specific offer (e.g. `/blog/backend_python_dev`). People browsing the
@@ -31,7 +31,7 @@ your listings. Tag your offer with:
 * (View individual job offers to check for remote) if the job listing does not offer any indication that all offers are
   remote, nor marks clearly remote offers, so you need to check individual offers to see if the position is remote.
 * (Async friendly)/(Async first) if you do not have specific availability requirements. This is especially interesting
-  for workers who might be interested in working on a different schedule or timezone. You can also add details like 
+  for workers who might be interested in working on a different schedule or timezone. You can also add details like
   (Preferred overlap of 3 hours with US Eastern office hours), (Night shift every 4 weeks), (4 day week), or (Requires
   availability 8-9 Europe/Lisbon).
 

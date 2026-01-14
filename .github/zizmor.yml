@@ -1,0 +1,5 @@
+rules:
+  artipacked:
+    ignore:
+      # docs.yml needs credentials to push to gh-pages
+      - docs.yml:20:9

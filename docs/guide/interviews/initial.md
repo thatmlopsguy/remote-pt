@@ -47,8 +47,8 @@ Ask Questions. Use your research to ask thoughtful questions specific to the com
 
 Refer to your research to highlight what excites you about the company and position.
 
-If audio or video fails during your interview, use the chat function to communicate with the interviewer. 
-Always keep your phone nearby as a backup option for continuing the conversation over a regular phone call. 
+If audio or video fails during your interview, use the chat function to communicate with the interviewer.
+Always keep your phone nearby as a backup option for continuing the conversation over a regular phone call.
 If you experience any technical difficulties with seeing or hearing the interviewer, don't hesitate to speak
 up so the issue can be addressed promptly.
 
@@ -89,7 +89,7 @@ Employers may not always drive the process, so staying proactive is important.
 
 ### Following Up with an Unresponsive Company
 
-If you haven’t heard back after some days (or after the timeframe they gave you), send a follow-up message to stay top of mind and show your interest. 
+If you haven’t heard back after some days (or after the timeframe they gave you), send a follow-up message to stay top of mind and show your interest.
 
 Here’s a template:
 
