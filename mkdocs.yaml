@@ -1,5 +1,11 @@
+# Site configuration
+site_url: https://thatmlopsguy.github.io/remote-pt/
 site_name: Remote PT
 site_description: List of companies which offer full-time remote jobs with Portuguese contracts 
+site_author: That MLOps Guy
+
+# Copyright
+copyright: Copyright &copy; 2026 That MLOps Guy
 
 # Repository
 repo_url: https://github.com/thatmlopsguy/remote-pt
@@ -49,3 +55,11 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.snippets:
       check_paths: true
+
+# Extra configuration
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/thatmlopsguy/
+    - icon: fontawesome/solid/globe
+      link: https://thatmlopsguy.github.io/
