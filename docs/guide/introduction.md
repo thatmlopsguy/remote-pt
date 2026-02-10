@@ -20,6 +20,7 @@ When setting your goals, consider:
 
 - Research salary expectations for your role and location using online tools, market reports, and by networking with peers in similar positions.
 - Search in websites like [TechPays](https://techpays.com/) and [Glassdoor](https://glassdoor.com) for salary insights.
+- Understand the trimodal nature of software engineering salaries in Europe, which highlights significant differences in compensation based on company type and location. For more details, see [this article](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/).
 - Understand what compensation you need for your expenses, hobbies, and savings.
 
 ### What matters to you in a job
