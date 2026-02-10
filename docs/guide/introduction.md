@@ -19,6 +19,7 @@ When setting your goals, consider:
 ### Salary benchmarking
 
 - Research salary expectations for your role and location using online tools, market reports, and by networking with peers in similar positions.
+- Search in websites like [TechPays](https://techpays.com/) and [Glassdoor](https://glassdoor.com) for salary insights.
 - Understand what compensation you need for your expenses, hobbies, and savings.
 
 ### What matters to you in a job
