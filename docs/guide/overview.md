@@ -28,9 +28,9 @@ The best way to do this is by sharing concrete examples from your past work that
 
 This guide will help you identify your priorities for an ideal role and remind you that interviews are a two-way street: you’re evaluating companies just as they’re evaluating you.
 
-# IT Levels: Junior to Principal
+## IT Levels: Junior to Principal
 
-In the IT industry, roles are often categorized into levels based on experience, expertise, and responsibilities. Below is a table summarizing the levels from Junior to Principal, including the Staff level:
+In the IT industry, roles are often categorized into levels based on experience, expertise, and responsibilities. Below is a table summarizing the levels from Junior to Principal, along with typical experience ranges, responsibilities, skills, and goals associated with each level. Keep in mind that these are general guidelines and can vary between companies and industries.
 
 | Level     | Experience | Responsibilities                                                                                                           | Skills                                                                                                                           | Goal                                                                                      |
 |-----------|------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
