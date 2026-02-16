@@ -100,6 +100,7 @@ The following companies offer remote tech jobs and hire in Portugal with full-ti
 * Motion [Open positions](https://motionapp.com/careers)
 * n8n [Open positions](https://n8n.io/careers/?ashby_location_id=6ea785e9-550b-4c78-ba83-0131675fddf8#job-board)
 * Namecheap [Open positions](https://www.namecheap.com/careers)
+* Nimber [Open positions](https://www.nimber.pt/job)
 * OfferFit [Open positions](https://www.offerfit.ai/careers)
 * Orcid [Open positions](https://info.orcid.org/work-with-us/)
 * Otonomee [Open positions](https://www.otonomee.com/careers)
