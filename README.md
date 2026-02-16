@@ -123,7 +123,7 @@ The following companies offer remote tech jobs and hire in Portugal with full-ti
 * SkyCell [Open positions](https://apply.workable.com/skycell-ag/)
 * Sona [Open positions](https://jobs.ashbyhq.com/Sona)
 * Sporty Group [Open positions](https://careers.sporty.com/#)
-* SpotMe [Open positions](https://spotme.com/jobs/)
+* SpotMe [Open positions](https://spotme.com/careers/)
 * Syrup [Open positions](https://www.syrup.tech/careers#open-positions)
 * Stratio [Open positions](https://careers.stratioautomotive.com/#jobs)
 * Tillster [Open positions](https://www.tillster.com/careers/)
