@@ -147,6 +147,7 @@ The following sites list remote jobs. Some offers list Portugal specifically (li
 * Remote.com [Open positions](https://remote.com/jobs/all?workplaceLocation=remote&country=PRT)
 * Wellfound (formerly AngelList Talent) [Open positions](https://wellfound.com/location/portugal)
 * Himalayas [Open positions](https://himalayas.app/jobs/countries/portugal)
+* [Hring Cafe](https://hiring.cafe/)
 * ["Who's hiring?" monthly thread on Hacker News](https://www.hacker-jobs.com/)
 * [Lobste.rs "Who's Hiring?" quarterly job threads](https://lobste.rs/t/job)
 * Landing.jobs [Open positions](https://landing.jobs/jobs)
