@@ -150,11 +150,15 @@ The following sites list remote jobs. Some offers list Portugal specifically (li
 * Wellfound (formerly AngelList Talent) [Open positions](https://wellfound.com/location/portugal)
 * Himalayas [Open positions](https://himalayas.app/jobs/countries/portugal)
 * [Hiring Cafe](https://hiring.cafe/)
+* [Working Nomads](https://www.workingnomads.com/jobs?location=portugal)
+* [Remote Rocketship](https://www.remoterocketship.com/gb/?page=1&sort=DateAdded&locations=Portugal)
 * ["Who's hiring?" monthly thread on Hacker News](https://www.hacker-jobs.com/)
 * [Lobste.rs "Who's Hiring?" quarterly job threads](https://lobste.rs/t/job)
 * Landing.jobs [Open positions](https://landing.jobs/jobs)
 * 4 day week [job positions](https://4dayweek.io/jobs/portugal)
+* [Euremote Jobs](https://euremotejobs.com/?search_region=portugal)
 * [European Remote (Portugal)](https://europeanremote.com/hiring-locations/portugal)
+* [EuroTech Jobs](https://www.eurotechjobs.com/job_search/keyword_location/portugal)
 * [r/devpt Quem Está a Contratar?](https://www.reddit.com/r/devpt/search/?q=%22Quem+Est%C3%A1+a+Contratar%3F%22&restrict_sr=1&sort=new)
 
 ## Contributing
