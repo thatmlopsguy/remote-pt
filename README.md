@@ -125,6 +125,7 @@ The following companies offer remote tech jobs and hire in Portugal with full-ti
 * Simperis [Open positions](https://www.semperis.com/careers/)
 * SkyCell [Open positions](https://apply.workable.com/skycell-ag/)
 * Sona [Open positions](https://jobs.ashbyhq.com/Sona)
+* SoSafe [Open positions](https://sosafe-awareness.com/careers/jobs/)
 * Sporty Group [Open positions](https://careers.sporty.com/#)
 * SpotMe [Open positions](https://spotme.com/careers/)
 * Stratio [Open positions](https://careers.stratioautomotive.com/#jobs)
