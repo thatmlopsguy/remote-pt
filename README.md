@@ -121,8 +121,9 @@ The following companies offer remote tech jobs and hire in Portugal with full-ti
 * Retinai [Open positions](https://www.retinai.com/careers/)
 * Rush Street Interactive [Open positions](https://www.rushstreetinteractive.com/careers)
 * Salsify [Open positions](https://www.salsify.com/careers/current-listings)
-* Sherpany [Open positions](https://www.sherpany.com/en/careers/open-positions/)
+* Sherpany [Open positions](https://www.sherpany.com/en/careers/open-positions/
 * Simperis [Open positions](https://www.semperis.com/careers/)
+* SingleStore [Open positions](https://www.singlestore.com/careers/jobs/)
 * SkyCell [Open positions](https://apply.workable.com/skycell-ag/)
 * Sona [Open positions](https://jobs.ashbyhq.com/Sona)
 * SoSafe [Open positions](https://sosafe-awareness.com/careers/jobs/)
