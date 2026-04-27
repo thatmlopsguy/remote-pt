@@ -147,6 +147,7 @@ The following sites list remote jobs. Some offers list Portugal specifically (li
 
 * levels.fyi [Open positions](https://www.levels.fyi/jobs/location/portugal?locationSlug=portugal)
 * Remote.com [Open positions](https://remote.com/jobs/all?workplaceLocation=remote&country=PRT)
+* [Jobs by Workable](https://jobs.workable.com/)
 * Wellfound (formerly AngelList Talent) [Open positions](https://wellfound.com/location/portugal)
 * Himalayas [Open positions](https://himalayas.app/jobs/countries/portugal)
 * [Hiring Cafe](https://hiring.cafe/)
