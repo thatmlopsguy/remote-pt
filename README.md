@@ -122,6 +122,7 @@ The following companies offer remote tech jobs and hire in Portugal with full-ti
 * RevenueCat [Open positions](https://jobs.ashbyhq.com/revenuecat)
 * Retinai [Open positions](https://www.retinai.com/careers/)
 * Rush Street Interactive [Open positions](https://www.rushstreetinteractive.com/careers)
+* saas.group [Open positions](https://www.saas.group/careers/)
 * Salsify [Open positions](https://www.salsify.com/careers/current-listings)
 * Simperis [Open positions](https://www.semperis.com/careers/)
 * SingleStore [Open positions](https://www.singlestore.com/careers/jobs/)
