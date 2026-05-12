@@ -156,6 +156,7 @@ The following sites list remote jobs. Some offers list Portugal specifically (li
 * Wellfound (formerly AngelList Talent) [Open positions](https://wellfound.com/location/portugal)
 * Himalayas [Open positions](https://himalayas.app/jobs/countries/portugal)
 * [Hiring Cafe](https://hiring.cafe/)
+* [Startup in Portugal](https://startup.jobs/locations/portugal)
 * [Working Nomads](https://www.workingnomads.com/jobs?location=portugal)
 * [Remote Rocketship](https://www.remoterocketship.com/gb/?page=1&sort=DateAdded&locations=Portugal)
 * ["Who's hiring?" monthly thread on Hacker News](https://hnhiring.com/)
