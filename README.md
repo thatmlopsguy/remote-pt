@@ -84,6 +84,7 @@ The following companies offer remote tech jobs and hire in Portugal with full-ti
 * Douro Labs [Open positions](https://jobs.ashbyhq.com/dourolabs.xyz/)
 * Exnaton [Open positions](https://exnaton-ag.jobs.personio.com/)
 * ELSA [Open positions](https://elsaspeak.com/en/career/)
+* Evil Martians [Open positions](https://evilmartians.com/careers)
 * Full Fabric [Open positions](https://www.fullfabric.com/company/careers/)
 * GitLab [Open positions](https://job-boards.greenhouse.io/gitlab/)
 * Halcyon [Open positions](https://www.halcyon.ai/careers)
