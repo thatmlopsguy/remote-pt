@@ -167,7 +167,6 @@ The following sites list remote jobs. Some offers list Portugal specifically (li
 * [Euremote Jobs](https://euremotejobs.com/?search_region=portugal)
 * [European Remote (Portugal)](https://europeanremote.com/hiring-locations/portugal)
 * [EuroTech Jobs](https://www.eurotechjobs.com/job_search/keyword_location/portugal)
-* [r/devpt Quem Está a Contratar?](https://www.reddit.com/r/devpt/search/?q=%22Quem+Est%C3%A1+a+Contratar%3F%22&restrict_sr=1&sort=new)
 
 ## Contributing
 
