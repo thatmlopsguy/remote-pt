@@ -53,7 +53,7 @@ retry_wait_time = 2
 # accept = ["200", "429"]
 # accept = "200, 429"
 # Tolerate HTTP 403 Forbidden responses because it's a common response for domains behind Cloudflare.
-accept = ["200", "403", "429"]
+accept = ["200", "202", "403", "429"]
 
 # Proceed for server connections considered insecure (invalid TLS).
 insecure = true
@@ -96,7 +96,11 @@ include_verbatim = false
 glob_ignore_case = false
 
 # Exclude URLs and mail addresses from checking (supports regex).
-exclude = ['^https://www\.linkedin\.com', '^https://web\.archive\.org/web/', 'https://www.crossover.com/jobs']
+exclude = [
+    '^https://www\.linkedin\.com',
+    '^https://web\.archive\.org/web/',
+    'https://www.crossover.com/jobs',
+]
 
 # Exclude these filesystem paths from getting checked.
 exclude_path = ["file/path/to/Ignore", "./other/file/path/to/Ignore"]
