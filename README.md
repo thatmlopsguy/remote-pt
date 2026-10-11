@@ -150,6 +150,7 @@ The following companies offer remote tech jobs and hire in Portugal with full-ti
 
 The following sites list remote jobs. Some offers list Portugal specifically (likely permanent contracts), but others may be freelance or multi-country roles:
 
+* [Jaabz](https://jaabz.com/) — Tech jobs with visa sponsorship, relocation, and remote filters
 * levels.fyi [Open positions](https://www.levels.fyi/jobs/location/portugal?locationSlug=portugal)
 * Remote.com [Open positions](https://remote.com/jobs/all?workplaceLocation=remote&country=PRT)
 * [Jobs by Workable](https://jobs.workable.com/)
