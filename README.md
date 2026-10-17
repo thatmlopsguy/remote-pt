@@ -136,6 +136,7 @@ The following companies offer remote tech jobs and hire in Portugal with full-ti
 * Tillster [Open positions](https://www.tillster.com/company/careers)
 * Trimble [Open positions](https://trimblecareers.trimble.com/careers?location=Portugal)
 * Typeform [Open positions](https://www.typeform.com/careers)
+* Tyk [Open positions](https://tyk.io/tyk-current-vacancies/)
 * Unleash [Open positions](https://www.getunleash.io/careers)
 * Valtech [Open positions](https://www.valtech.com/career/jobs/?country=portugal)
 * Wellhub [Open positions](https://wellhub.com/careers/)
