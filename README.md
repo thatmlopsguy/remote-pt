@@ -117,7 +117,7 @@ The following companies offer remote tech jobs and hire in Portugal with full-ti
 * Qodea [Open positions](https://apply.workable.com/qodea/)
 * Quicknode [Open positions](https://www.quicknode.com/careers)
 * Red Hat [Open positions](https://redhat.wd5.myworkdayjobs.com/jobs/?a=2e8c5034deb045d49315417c347472ca)
-* Remote [Open positions](https://job-boards.greenhouse.io/remotecom)
+* Remote [Open positions](https://remote.com/openings)
 * Remote People [Open positions](https://remotepeople.com/about/careers/)
 * RevenueCat [Open positions](https://jobs.ashbyhq.com/revenuecat)
 * Retinai [Open positions](https://www.retinai.com/careers)
