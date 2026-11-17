@@ -3,7 +3,6 @@
 
 [![docs](https://github.com/thatmlopsguy/remote-pt/actions/workflows/docs.yml/badge.svg)](https://github.com/thatmlopsguy/remote-pt/actions/workflows/docs.yml)
 [![Validate links](https://github.com/thatmlopsguy/remote-pt/actions/workflows/links.yml/badge.svg)](https://github.com/thatmlopsguy/remote-pt/actions/workflows/links.yml)
-[![Security hardening (Github Actions workflows)](https://github.com/thatmlopsguy/remote-pt/actions/workflows/security.yml/badge.svg)](https://github.com/thatmlopsguy/remote-pt/actions/workflows/security.yml)
 
 <p align="center">
   <b>Curated list of companies offering full-time remote tech jobs with Portuguese contracts.</b>
@@ -112,6 +111,7 @@ The following companies offer remote tech jobs and hire in Portugal with full-ti
 * Phaidra [Open positions](https://www.phaidra.ai/careers)
 * PhantomBuster [Open positions](https://careers.phantombuster.com/)
 * Primer [Open positions](https://webflow.primer.io/careers)
+* Polarising [Open positions](https://polarising.com/careers/)
 * Poolside [Open positions](https://poolside.ai/careers)
 * Proton.ai [Open positions](https://www.proton.ai/careers)
 * Qodea [Open positions](https://apply.workable.com/qodea/)
