@@ -167,6 +167,7 @@ The following sites list remote jobs. Some offers list Portugal specifically (li
 * [EuroTech Jobs](https://www.eurotechjobs.com/job_search/keyword_location/portugal)
 * [DoableFromHome (Portugal)](https://doablefromhome.com/jobs?cc=PT)
 * [FreshRemoteRoles (Portugal)](https://freshremoteroles.com/remote-jobs-in-portugal)
+* [Jobs Every Hour (Portugal)](https://jobseveryhour.com/locations/portugal/remote/)
 
 ## Contributing
 
